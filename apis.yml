@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - SBOM
   - Licensing
-  - Standards
   - Linux Foundation
+  - SBOM
+  - Standards
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,8 +23,8 @@ apis:
       API for accessing SPDX open standard resources for software bill of materials, license compliance, and software supply chain transparency information.
     humanURL: https://spdx.dev/learn/overview/
     tags:
-      - SBOM
       - Licensing
+      - SBOM
     properties:
       - type: Documentation
         url: https://spdx.dev/learn/overview/
