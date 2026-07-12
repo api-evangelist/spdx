@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://spdx.dev/learn/overview/
 common:
+  - type: DomainSecurity
+    url: security/spdx-domain-security.yml
   - type: Documentation
     name: SPDX Documentation
     description: Official documentation for SPDX.
@@ -37,6 +39,8 @@ common:
     name: SPDX GitHub
     description: Source code and repositories for SPDX.
     url: https://github.com/spdx
+  - url: https://spdx.dev/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
