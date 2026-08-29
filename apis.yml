@@ -3,6 +3,17 @@ name: SPDX
 description: >-
   The Software Package Data Exchange (SPDX) is an open standard under the Linux Foundation for communicating software bill of materials information including components, licenses, copyrights, and security references. It is an ISO/IEC standard (ISO/IEC 5962) used for software supply chain transparency.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
