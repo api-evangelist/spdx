@@ -52,6 +52,8 @@ apis:
       - type: Documentation
         url: https://spdx.dev/learn/overview/
 common:
+  - type: Website
+    url: https://www.spdx.dev/
   - type: DomainSecurity
     url: security/spdx-domain-security.yml
   - type: Documentation
