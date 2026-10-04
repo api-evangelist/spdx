@@ -69,3 +69,6 @@ common:
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+x-type: standards-body
+x-category: Specification
+x-host: Linux Foundation
